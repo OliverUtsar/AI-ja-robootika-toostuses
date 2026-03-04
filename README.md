@@ -1,1 +1,1 @@
-Aine kõik praktikumid ja failid
+Aine kõik praktikumid ja failid on jagatud kaustadesse
