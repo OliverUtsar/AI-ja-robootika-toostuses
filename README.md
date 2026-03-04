@@ -1,1 +1,1 @@
-# Tehisintellekti-ja-robootika-rakendused-t-stuses
+Aine kõik praktikumid ja failid
