@@ -2,21 +2,21 @@
 
 ## Ülevaade
 See programm avab arvuti kaamera ja võimaldab:
-- ENTER-klahviga salvestada kaadri ehk pildi
+- "ENTER" klahviga salvestada kaadri ehk pildi
 - Ennustada objekte YOLO AI mudeliga
 - Salvestada pilt kastide ja nimedega kausta "salvestatud_pildid"
 - "Q" klahviga lõpetada programm
 
 ## Süsteemi arhitektuur
-- **Sisend:** Live kaamera kaadrid
-- **AI mudel:** YOLOv8 (ultralytics)
-- **Pildi töötlemine:** OpenCV
-- **Väljund:** Annotated image + salvestatud failid
-- **Kaustad:** 
-  - `salvestatud_pildid/` – kõik ENTER-klahviga salvestatud pildid
+- Sisend: reaalajas kaamera kaadrid
+- AI mudel: YOLOv8 (ultralytics)
+- Pildi töötlemine: OpenCV
+- Väljund: Annotated image + salvestatud failid
+- Kaustad:
+  "salvestatud_pildid/" – kõik "ENTER" klahviga salvestatud pildid
 
 ### Töövoog
-  1. Kasutaja avab programmi --> kaamera aknake avaneb
+1. Kasutaja avab programmi --> kaamera aknake avaneb
 2. "ENTER" klahv --> tuvastab objektid --> salvestab annotatsioonidega pildi
 3. "Q" klahv --> sulgeb programmi
 
