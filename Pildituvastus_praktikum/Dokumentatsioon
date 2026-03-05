@@ -24,7 +24,7 @@ See programm avab arvuti kaamera ja võimaldab:
 - YOLOv8n (ultralytics, `yolov8n.pt`)
 - Väike, kiire, sobib reaalajaliseks tuvastamiseks ning on üsnagi täpne
 
-## Näited
+## Näited salvestatud piltidest
 ![Näide 1](pilt_1.jpg)
 ![Näide 2](pilt_2.jpg)
 ![Näide 3](pilt_3.jpg)
