@@ -1,0 +1,398 @@
+{
+  "40STAND60x63_900x900": {
+    "toote_tyyp": "40STAND60x63",
+    "A/U": "A",
+    "mõõdud": {
+      "laius": 900.0,
+      "kõrgus": 900.0,
+      "tk": 3
+    },
+    "detailid": {
+      "käsi": "P",
+      "grupid": {
+        "raam": {
+          "mõõdud": {
+            "L": 814.0,
+            "H": 804.0
+          },
+          "kogus": {
+            "H": 3
+          }
+        },
+        "klaasi/KLP mõõt": {
+          "mõõdud": {
+            "L": 714.0,
+            "H": 704.0
+          },
+          "kogus": {
+            "H": 3
+          }
+        },
+        "lengi detailid": {
+          "mõõdud": {
+            "ÜH": 900.0,
+            "AH": 800.0,
+            "VERT": 850.0
+          },
+          "kogus": {
+            "ÜH": 3,
+            "AH": 3,
+            "VERT": 6
+          }
+        },
+        "raami detailid": {
+          "mõõdud": {
+            "ÜH": 814.0,
+            "AH": 814.0,
+            "VERT": 708.0
+          },
+          "kogus": {
+            "ÜH": 3,
+            "AH": 3,
+            "VERT": 6
+          }
+        },
+        "klaasiliistud": {
+          "mõõdud": {
+            "HOR": 718.0,
+            "VERT": 708.0
+          },
+          "kogus": {
+            "HOR": 6,
+            "VERT": 6
+          }
+        }
+      }
+    }
+  },
+  "40STAND60x63_800x1050": {
+    "toote_tyyp": "40STAND60x63",
+    "A/U": "A",
+    "mõõdud": {
+      "laius": 800.0,
+      "kõrgus": 1050.0,
+      "tk": 20
+    },
+    "detailid": {
+      "käsi": "V",
+      "grupid": {
+        "raam": {
+          "mõõdud": {
+            "L": 714.0,
+            "H": 954.0
+          },
+          "kogus": {
+            "H": 20
+          }
+        },
+        "klaasi/KLP mõõt": {
+          "mõõdud": {
+            "L": 614.0,
+            "H": 854.0
+          },
+          "kogus": {
+            "H": 20
+          }
+        },
+        "lengi detailid": {
+          "mõõdud": {
+            "ÜH": 800.0,
+            "AH": 700.0,
+            "VERT": 1000.0
+          },
+          "kogus": {
+            "ÜH": 20,
+            "AH": 20,
+            "VERT": 40
+          }
+        },
+        "raami detailid": {
+          "mõõdud": {
+            "ÜH": 714.0,
+            "AH": 714.0,
+            "VERT": 858.0
+          },
+          "kogus": {
+            "ÜH": 20,
+            "AH": 20,
+            "VERT": 40
+          }
+        },
+        "klaasiliistud": {
+          "mõõdud": {
+            "HOR": 618.0,
+            "VERT": 858.0
+          },
+          "kogus": {
+            "HOR": 40,
+            "VERT": 40
+          }
+        }
+      }
+    }
+  },
+  "77STAND60x70_1250x956": {
+    "toote_tyyp": "77STAND60x70",
+    "A/U": "TA",
+    "mõõdud": {
+      "laius": 1250.0,
+      "kõrgus": 956.0,
+      "tk": 10
+    },
+    "detailid": {
+      "käsi": "P",
+      "grupid": {
+        "raam": {
+          "mõõdud": {
+            "L": 585.0,
+            "H": 860.0
+          },
+          "kogus": {
+            "H": 20
+          }
+        },
+        "klaasi/KLP mõõt": {
+          "mõõdud": {
+            "L": 485.0,
+            "H": 760.0
+          },
+          "kogus": {
+            "H": 20
+          }
+        },
+        "lengi detailid": {
+          "mõõdud": {
+            "ÜH": 1250.0,
+            "AH": 1150.0,
+            "VERT": 906.0
+          },
+          "kogus": {
+            "ÜH": 10,
+            "AH": 10,
+            "VERT": 20
+          }
+        },
+        "raami detailid": {
+          "mõõdud": {
+            "ÜH": 585.0,
+            "AH": 585.0,
+            "VERT": 764.0
+          },
+          "kogus": {
+            "ÜH": 20,
+            "AH": 20,
+            "VERT": 40
+          }
+        },
+        "klaasiliistud": {
+          "mõõdud": {
+            "HOR": 489.0,
+            "VERT": 764.0
+          },
+          "kogus": {
+            "HOR": 40,
+            "VERT": 40
+          }
+        }
+      }
+    }
+  },
+  "77STAND60x70_1100x1729": {
+    "toote_tyyp": "77STAND60x70",
+    "A/U": "TA",
+    "mõõdud": {
+      "laius": 1100.0,
+      "kõrgus": 1729.0,
+      "tk": 1
+    },
+    "detailid": {
+      "käsi": "V",
+      "grupid": {
+        "raam": {
+          "mõõdud": {
+            "L": 510.0,
+            "H": 1633.0
+          },
+          "kogus": {
+            "H": 2
+          }
+        },
+        "klaasi/KLP mõõt": {
+          "mõõdud": {
+            "L": 410.0,
+            "H": 1533.0
+          },
+          "kogus": {
+            "H": 2
+          }
+        },
+        "lengi detailid": {
+          "mõõdud": {
+            "ÜH": 1100.0,
+            "AH": 1000.0,
+            "VERT": 1679.0
+          },
+          "kogus": {
+            "ÜH": 1,
+            "AH": 1,
+            "VERT": 2
+          }
+        },
+        "raami detailid": {
+          "mõõdud": {
+            "ÜH": 510.0,
+            "AH": 510.0,
+            "VERT": 1537.0
+          },
+          "kogus": {
+            "ÜH": 2,
+            "AH": 2,
+            "VERT": 4
+          }
+        },
+        "klaasiliistud": {
+          "mõõdud": {
+            "HOR": 414.0,
+            "VERT": 1537.0
+          },
+          "kogus": {
+            "HOR": 4,
+            "VERT": 4
+          }
+        }
+      }
+    }
+  },
+  "77STAND60x70_1340x1050": {
+    "toote_tyyp": "77STAND60x70",
+    "A/U": "TA",
+    "mõõdud": {
+      "laius": 1340.0,
+      "kõrgus": 1050.0,
+      "tk": 4
+    },
+    "detailid": {
+      "käsi": "P",
+      "grupid": {
+        "raam": {
+          "mõõdud": {
+            "L": 630.0,
+            "H": 954.0
+          },
+          "kogus": {
+            "H": 8
+          }
+        },
+        "klaasi/KLP mõõt": {
+          "mõõdud": {
+            "L": 530.0,
+            "H": 854.0
+          },
+          "kogus": {
+            "H": 8
+          }
+        },
+        "lengi detailid": {
+          "mõõdud": {
+            "ÜH": 1340.0,
+            "AH": 1240.0,
+            "VERT": 1000.0
+          },
+          "kogus": {
+            "ÜH": 4,
+            "AH": 4,
+            "VERT": 8
+          }
+        },
+        "raami detailid": {
+          "mõõdud": {
+            "ÜH": 630.0,
+            "AH": 630.0,
+            "VERT": 858.0
+          },
+          "kogus": {
+            "ÜH": 8,
+            "AH": 8,
+            "VERT": 16
+          }
+        },
+        "klaasiliistud": {
+          "mõõdud": {
+            "HOR": 534.0,
+            "VERT": 858.0
+          },
+          "kogus": {
+            "HOR": 16,
+            "VERT": 16
+          }
+        }
+      }
+    }
+  },
+  "77STAND60x70_725x956": {
+    "toote_tyyp": "77STAND60x70",
+    "A/U": "A",
+    "mõõdud": {
+      "laius": 725.0,
+      "kõrgus": 956.0,
+      "tk": 10
+    },
+    "detailid": {
+      "käsi": "P",
+      "grupid": {
+        "raam": {
+          "mõõdud": {
+            "L": 639.0,
+            "H": 860.0
+          },
+          "kogus": {
+            "H": 10
+          }
+        },
+        "klaasi/KLP mõõt": {
+          "mõõdud": {
+            "L": 539.0,
+            "H": 760.0
+          },
+          "kogus": {
+            "H": 10
+          }
+        },
+        "lengi detailid": {
+          "mõõdud": {
+            "ÜH": 725.0,
+            "AH": 625.0,
+            "VERT": 906.0
+          },
+          "kogus": {
+            "ÜH": 10,
+            "AH": 10,
+            "VERT": 20
+          }
+        },
+        "raami detailid": {
+          "mõõdud": {
+            "ÜH": 639.0,
+            "AH": 639.0,
+            "VERT": 764.0
+          },
+          "kogus": {
+            "ÜH": 10,
+            "AH": 10,
+            "VERT": 20
+          }
+        },
+        "klaasiliistud": {
+          "mõõdud": {
+            "HOR": 543.0,
+            "VERT": 764.0
+          },
+          "kogus": {
+            "HOR": 20,
+            "VERT": 20
+          }
+        }
+      }
+    }
+  }
+}
