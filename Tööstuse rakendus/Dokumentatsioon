@@ -1,1 +1,10 @@
+See projekt loeb Exceli faili Tootmisreeglid.xlsx, mis sisaldab tootetüüpe, nende mõõte ning detailide arvutamise valemeid. 
+Skript:
+- loeb Exceli kahepäiselise tabelina
+- kasutab ainult laiust (L), kõrgust (K) ja tk tyyptellimusel (tk) numbrilisest reast
+- kasutab detailide mõõtude ja koguste jaoks valemirida
+- arvutab kõik valemid Pythonis
+- salvestab tulemuse struktureeritud JSON‑faili ("tootmisreeglid_output.json")
+- Süsteem on loodud nii, et Excelisse saab lisada uusi tooteid ilma koodi muutmata – kõik mõõdud ja kogused arvutatakse dünaamiliselt.
+
 
