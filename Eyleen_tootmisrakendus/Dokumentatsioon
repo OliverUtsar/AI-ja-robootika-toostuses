@@ -1,1 +1,33 @@
-
+PÕHILISED MUUDATUSED:
+1. Kliendi erisoovide küsimine
+- Lisasin võimaluse kliendil määrata kohandatud klaasiliistude konfiguratsiooni
+- Küsitakse kasutajalt, et kas soovite klaasiliiste? (jah/ei) ning vastuseks kas "jah" või "ei".
+Kui ei: ei küsita enam täpsemaid küsimusi, märgime, et klaasiliiste ei soovita
+Kui jah: Küsitakse alles siis täpsemalt, et milliseid klaasiliiste ja kui palju:
+Vertikaalsed klaasiliistud (arv):
+Horisontaalsed klaasiliistud (arv):
+2. Dünaamiline Klaasiliistude Arvutamine
+- Lõin uue funktsiooni arvuta_kohandatud_klaasiliistud() kohandatud konfiguratsioonide arvutamiseks
+- Funktsioon arvutab automaatselt klaasiliistude positsioonide põhjal:
+Akna mõõtmed (laius, kõrgus)
+Kliendi soovitud liistude arv
+Standardne raami paksus (80mm/96mm)
+3. Kohe-kontroll Toote Tüübi Sisestamisel
+Probleem: Vigane toote tüüp põhjustas programmi katkemise ilma selgete veateadeteta 
+Lahendus:
+- Lisati while tsükkel toote tüübi valideerimiseks kohe pärast sisestamist
+- Lisati selged veateated vigase sisendi (toote tüübi) korral
+- Näidatakse õigeid näiteid ja saadaolevaid toote tüüpe
+- Programm jätkab ainult õige toote tüübi sisestamisel: kasutaja saab kohe teada, kui toote tüüp on vale, ja näeb, kuidas see peaks välja nägema
+4. Põhiinfo Kuvamine ilma irisoovideta
+Probleem: Kui kliendil polnud erisoove, ei kuvatud ühtkit detaili ega mõõte 
+Lahendus:
+- Kindlustati, et põhiinfo (toote tüüp, mõõdud, raam, klaas) lisatakse alati 
+- Parandati loogikat nii, et põhimõõdud kuvatakse alati: nüüd näidatakse kõiki toote detaile isegi siis, kui kliendil pole erisoove
+5. Arusaadav ja kasutajasõbralik väljund 
+- Grupeeriti mõõdud loogilistesse kategooriatesse: 
+Põhimõõdud (standardsed väärtused andmebaasist) 
+Arvutatud mõõdud (kliendi sisestatud mõõtude põhjal)
+Klaasiliistud (kliendi erisoovid) 
+- Lisati selged pealkirjad ja kirjeldused
+- Lisati ühikud (mm) kõikide mõõtude juurde: palju arusaadavam väljund, kus on selge, mis väärtused on standardsed ja mis on arvutatud
