@@ -1,19 +1,17 @@
-# LiDAR otsese georeferentseerimise simulatsioon
-
+LIDAR OTSESE GEOREFERENTSEERIMISE SIMULATSIOON
 See projekt sisaldab Google Colab notebook'i, mis simuleerib droonilt tehtud LiDAR mõõtmisi ning näitab, kuidas erinevad sensorivead mõjutavad punktipilve täpsust.
 
-## 📌 Eesmärk
+📌 Eesmärk
 
 Simulatsiooni eesmärk on visualiseerida, kuidas:
 - IMU heading viga
 - GNSS–LiDAR ajanihe (timing offset)
 - lever arm (sensori asukoht drooni suhtes)
 
-tekitavad **strip-strip misalignment'i** ehk lennuribade omavahelist nihkumist.
-
+tekitavad misalignment'i ehk lennuribade omavahelist nihkumist.
 ---
 
-## ⚙️ Simulatsiooni kirjeldus
+⚙️ Simulatsiooni kirjeldus
 
 - Droon lendab kahel vastassuunalisel ribal ("lawnmower" muster)
 - Kõrgus: 40 m  
@@ -27,8 +25,7 @@ Simulatsioon arvutab:
 - kas kiir tabab objekti või maapinda
 
 ---
-
-## 📊 Visualiseerimine
+📊 Visualiseerimine
 
 Notebook sisaldab interaktiivset graafikut (Plotly), kus:
 
@@ -45,15 +42,14 @@ Graafik uueneb reaalajas.
 
 ---
 
-## ▶️ Kuidas käivitada
+▶️ Kuidas käivitada
 
 1. Ava [Google Colab](https://colab.research.google.com/)
 2. Lae notebook üles
 3. Käivita kõik lahtrid (Shift + Enter)
 
 ⚠️ Oluline:
-Notebooki alguses peab olema:
+Notebooki alguses peab olema koodirida:
 
-```python
 from google.colab import output
 output.enable_custom_widget_manager()
