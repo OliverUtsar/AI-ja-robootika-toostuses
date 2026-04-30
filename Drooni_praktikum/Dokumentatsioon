@@ -1,1 +1,11 @@
+Muutsin heading_error_deg väärtuseks +1°: 
+- Kogu swath pöörati tervikuna.
+- Misalignment on suurim servades, sest samal nurgal on suurem raadius ning nihe.
+Muutsin heading_error_deg väärtuseks 0 ning timing_offset_ms väärtuseks +100 ms:
+- Riba 1 nihkub ette (+x suunas) ning x kasvab ajas
+- Riba 2 nihkub tagasi (-x suunas) ning x väheneb ajas
+- Ribad lahknevad ning ligikaudselt on nad omavahel nihkes 0.5 m ehk lahknemine on ligikaudu 1 m
+Muutsin heading_error_deg väärtuseks 0 ning lever_arm_x_m väärtuseks +0.3 m:
+- Lever_arm nihutab ribasid küljele, kuid nii timing_offset kui ka lever_arm tekitavad asümmeetrilise offseti ribade vahel
+- Kui heading_error_deg väärtuseks panna +5°, siis heading pöörab lever vektorit ning tekib diagonaalne nihe ehk ribad ei nihku enam sümmeetriliselt
 
