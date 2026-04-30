@@ -12,8 +12,7 @@ tekitavad misalignment'i ehk lennuribade omavahelist nihkumist.
 ---
 
 ⚙️ Simulatsiooni kirjeldus
-
-- Droon lendab kahel vastassuunalisel ribal ("lawnmower" muster)
+- Droon lendab kahel vastassuunalisel ribal
 - Kõrgus: 40 m  
 - Kiirus: 5 m/s  
 - LiDAR skaneerib ±30° (60° koonus)
@@ -44,7 +43,7 @@ Graafik uueneb reaalajas.
 
 ▶️ Kuidas käivitada
 
-1. Ava [Google Colab](https://colab.research.google.com/)
+1. Ava [Google Colab] - https://colab.research.google.com/drive/1Jlg3r7-gqRW5kGvfbaiMBOl-hJOYxNGr?usp=sharing
 2. Lae notebook üles
 3. Käivita kõik lahtrid (Shift + Enter)
 
